@@ -1,0 +1,1 @@
+FROM cr.undetect.io/${UNDETECT_KEY_LOWERCASE}/stealthium:latest
